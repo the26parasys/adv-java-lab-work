@@ -2,8 +2,8 @@ classpath:C:\Users\ALG\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.1.0\
 classpath:C:\Users\ALG\.m2\repository\com\zaxxer\HikariCP\5.1.0\HikariCP-5.1.0.jar	161840:1792501705233
 classpath:C:\Users\ALG\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar	41125:1792501699744
 classpath:C:\Users\ALG\.m2\repository\org\mindrot\jbcrypt\0.4\jbcrypt-0.4.jar	17429:1792501705316
-classpath:C:\Users\ALG\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.2\jackson-databind-2.17.2.jar	1649454:1792501706192
-classpath:C:\Users\ALG\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.2\jackson-annotations-2.17.2.jar	78492:1792501705472
-classpath:C:\Users\ALG\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.2\jackson-core-2.17.2.jar	581927:1792501708488
+classpath:C:\Users\ALG\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.18.11\jackson-databind-2.18.11.jar	1666375:1792502785488
+classpath:C:\Users\ALG\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.11\jackson-annotations-2.18.11.jar	78413:1792502785556
+classpath:C:\Users\ALG\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.11\jackson-core-2.18.11.jar	588755:1792502785605
 classpath:C:\Users\ALG\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar	46041:1792501706549
 classpath:C:\Users\ALG\.m2\repository\jakarta\el\jakarta.el-api\5.0.0\jakarta.el-api-5.0.0.jar	87908:1792501706393
