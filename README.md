@@ -40,7 +40,7 @@ A comprehensive collection of **Advanced Java Programming** laboratory practical
 
 Ensure the following tools and runtimes are installed on your workstation:
 
-1. **Java Development Kit (JDK 17 or 21+):**
+1. **Java Development Kit (JDK 25 LTS):**
    ```bash
    java -version
    javac -version

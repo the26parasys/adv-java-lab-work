@@ -56,7 +56,7 @@
 
 ## Technology Stack
 
-- **Backend Runtime:** Java 21 (LTS)
+- **Backend Runtime:** Java 25 (LTS)
 - **Web Specification:** Jakarta EE 11 (Jakarta Servlet 6.1, JSP 3.1, JSTL 3.0)
 - **Application Server:** Apache Tomcat 11.0.x
 - **Database:** MySQL 8.0+ / 8.4 LTS
@@ -72,7 +72,7 @@
 
 Before starting, ensure the following are installed on your machine:
 
-1. **Java Development Kit (JDK 17 or 21+):**
+1. **Java Development Kit (JDK 25 LTS):**
    ```bash
    java -version
    javac -version
