@@ -449,4 +449,4 @@ java -cp target/classes com.shopsphere.desktop.LoginFrame
 
 - **Author**: deepak prajapati
 - **Course**: Advanced Java Laboratory (ADJ Lab)
-- **Repository**: [`adjrepo`](https://github.com/sahil1205-jat/adj)
+- **Repository**:[(https://github.com/the26parasys/adv-java-lab-work)]
